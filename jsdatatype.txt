@@ -1,0 +1,18 @@
+Javascript provides different datatypes to hold different types of values.
+There are two types of data types in javaScript.
+1.Primitive data type
+2.Non-primitive data type(reference datatype)
+
+1.Primitive Data type:
+        There are five types of primitive data types in javascript.
+String: It represnts sequence of characters e.g. "hi"
+Number: It represents numeric values e.g.10
+Boolean: It represents boolean value either FALSE or TRUE
+Null: It represents null i.e. value at all
+undefined: It represents undefined value
+
+2. Non-Primitive Datatype:
+        The non-primitive data types are as follows:
+Object: It represents instance through which we can access members
+Array: It represents group of similar values
+RegExp: It represents regukar expression
